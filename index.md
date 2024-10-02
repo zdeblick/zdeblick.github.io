@@ -2,7 +2,7 @@ Have you ever imagined that you're (for example) the leader of a colony mission 
 
 In many ways, this problem is easy compared to the challenge of improving our existing democratic institutions, which are tethered by inertial forces like systemic racism and constrained to operate in a world of many other nations, some of which would destroy you if they could. And yet, even on Sich, it's hard to know where to start.
 
-As a mathematician, I like to address problems like these with the language of *optimization *functions. What quantity should we design the Constitution of Sich to maximize? Fairness? Opportunity? The chances our colony survives at all? And how exactly do we go about defining that quantity? And then solving this optimization problem? And of course, can we use any of this to reccommend practical changes for our real democracies?
+As a mathematician, I like to address problems like these with the language of *optimization functions*. What quantity should we design the Constitution of Sich to maximize? Fairness? Opportunity? The chances our colony survives at all? And how exactly do we go about defining that quantity? And then solving this optimization problem? And of course, can we use any of this to reccommend practical changes for our real democracies?
 
 I'm still learning a lot about how we can use math and science to answer these types of questions, but I know that no one has all the answers. So come on this ride with me to learn what we can!
 
