@@ -1,3 +1,7 @@
+---
+layout: head
+---
+
 Have you ever imagined that you're (for example) the leader of a colony mission to a far-away habitable planet (let's call it Sich), and it's your job to write a constitution for the new society there? Where would you start? How would you go about making decisions? Are there any factors about the planet or colonists that might influence those decisions?
 
 In many ways, this problem is easy compared to the challenge of improving our existing democratic institutions, which are tethered by inertial forces like systemic racism and constrained to operate in a world of many other nations, some of which would destroy you if they could. And yet, even on Sich, it's hard to know where to start.
