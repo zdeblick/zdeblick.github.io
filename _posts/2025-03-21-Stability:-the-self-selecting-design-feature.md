@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stability\: the self-selecting design feature
+title: "Stability: the self-selecting design feature"
 tags: Big+Picture
 ---
 
