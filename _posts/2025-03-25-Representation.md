@@ -10,8 +10,11 @@ My computational neuroscientist alter-ego would tell you that representation is 
 
 Representative systems of government do essentially the same thing, for essentially the same reason. The basic input to a democracy is the will of the people, and the desired output is policy that maximizes some good property of those same people's lives (life, liberty, pursuit of happiness, stability, etc.). But for a large, diverse population, it is very difficult to incorporate the will of every person without somehow reducing the problem. So representative systems select a group of people small enough to actually debate and enact policy where each representative is selected to *represent* the will of some large group of voters. This essentially reduces the question of optimal democratic government to two mostly separate problems:
 
-* 
+1. How to choose an appropriate set of representatives from a population?
+2. What process should those representatives use to debate and enact laws?
+
+The various democracies around the world have various answers to both of these questions, but all use this same basic idea. For the rest of today's post, we'll take a deeper dive into the first question, and in particular ask how good the USA's system is.
 
 <iframe width="600" height="400" 
-    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTXkBFUNa5vrOnmA-BdhxNfDChfUIwgrRGCvc5azGLrP1WjM3up0ToZsxzdrFrGqY13ulzrfa5FddTJ/pub?output=html?gid=80201397&single=true&range=D2:M30">
+    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTXkBFUNa5vrOnmA-BdhxNfDChfUIwgrRGCvc5azGLrP1WjM3up0ToZsxzdrFrGqY13ulzrfa5FddTJ/pubhtml?gid=80201397&single=true&range=D2:M30">
 </iframe>
