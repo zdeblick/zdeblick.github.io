@@ -15,6 +15,14 @@ Representative systems of government do essentially the same thing, for essentia
 
 The various democracies around the world have various answers to both of these questions, but all use this same basic idea. For the rest of today's post, we'll take a deeper dive into the first question, and in particular ask how good the USA's system is.
 
+The USA has representatives at the federal, state, and local level. Except for the President, elected officials are selected state-by-state, and the states play a huge role for selecting the President too. (I've switched now to using "elected official" instead of "representative" because "Representative" refers to a specific type of elected official in America, but all elected officials represent some group of people.) Each state elects two Senators, each elected once every six years by voters across the entire state, and a number of Representatives proportional to the state's population (determining how exactly to apportion this number of Representatives to states is actually not a straightforward problem - I would highly reccommend checking out [this video](https://www.youtube.com/watch?v=GVhFBujPlVo) to get into it). Up until 1842, each state had a lot of freedom in choosing how to elect their Representatives and two different approaches were used by different states: single-member districts and block voting. 
+
+In block voting, if a state had *N* Representative seats apportioned to it, its ballot would allow voters to vote for *N* candidates, and the *N* candidates who received the most votes would be elected. In states that used this system, each political party put exactly *N* candidates on the ballot, and voters tended to vote for all *N* candidates of their party of preference. The result was that the majority party tended to take all *N* seats. 
+
+In single-member districts, the system we have today, states draw a district map, dividing the state into $N$ regions. Then in each region, a single-winner election takes place to elect the Representative from that district. 
+
+From Chief Justice Robert's opinion in the 2019 case *Rucho v. Common Cause*: "The initial difficulty in settling on a ‘clear manageable and politically neutral’ test for fairness is that it is not even clear what fairness looks like in this context. There is a large measure of ‘unfairness’ in any winner-take-all system."
+
 <iframe width="600" height="400" 
-    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTXkBFUNa5vrOnmA-BdhxNfDChfUIwgrRGCvc5azGLrP1WjM3up0ToZsxzdrFrGqY13ulzrfa5FddTJ/pubhtml?gid=80201397&single=true&range=D2:M30">
+    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTXkBFUNa5vrOnmA-BdhxNfDChfUIwgrRGCvc5azGLrP1WjM3up0ToZsxzdrFrGqY13ulzrfa5FddTJ/pubhtml?gid=80201397&single=true&range=F2:M438">
 </iframe>
