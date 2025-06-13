@@ -33,7 +33,7 @@ I have done a lot of digging around trying to get some estimate of how much weal
 
 Wealth $= 48.4 + 34 \times$ (number of slaves owned).
 
-Thus, in the total wealth of a state, every slave adds 34/48.4 = 0.7 of the taxable value of a freeperson, on average, which is close-ish to 3/5 = 0.6. The discrepancy is large enough that it doesn't tell us why 3/5 was chosen over 2/3, but there are so many unknowns here that we shouldn't be too disappointed by that.
+Thus, in the total wealth of a state, every slave adds $34/48.4 = 0.7$ of the taxable value of a freeperson, on average, which is close-ish to $3/5 = 0.6$. The discrepancy is large enough that it doesn't tell us why 3/5 was chosen over 2/3, but there are so many unknowns here that we shouldn't be too disappointed by that.
 
 The main point is that
 1) the 3/5 ratio made relatively small changes to the balance of power in 1783, and this is why it was popular enough to pass in Congress. Even if some states were a little worse off, they benefited from having a federal government that could request taxes fairly without having to perform prohibitively costly and arbitrary surveys of the entire country. This is essentially the same as the hope I alluded to when [discussing the potential for electoral reform that eliminates gerrymandering](https://zdeblick.github.io/2025/03/26/Representation.html): the fact that neither party benefits much from gerrymandering on a national level means that a reform eliminating it is possible, politically. 
