@@ -14,13 +14,13 @@ The only question that remains is: why 3/5? Why not 1/2, or 2/3, or 3/8? To answ
 
 Let's first look at the 1783 negotiation, simpifying it to one between Northern and Southern states: 
 
-<img src="/assets/images/1783_negotiations.jpg" alt="1783 Negotiation" width="600" />
+<img src="/assets/jupyter/1783_negotiations.jpg" alt="1783 Negotiation" width="600" />
 
 The x-axis shows the range of possible ratios that Congress might have agreed upon in a compromise, and the y-axis shows hypothetical payoffs that both sides might get from each possible outcome. By payoffs, I mean some abstract notion of how happy the negotiators and those they represent are as a result of the negotiation. As we covered, the North preferred a higher ratio in 1783 so that the South would shoulder more of the tax burden, and the South preferred a lower one. And as at the constitutional convention, there was some benefit to both sides that derived from the improvement to the Articles of Confederation, such that there is a range of ratios where both sides would benefit (positive payoff) from accepting that ratio. The point where both lines cross is where the balance of power does not change: both sides benefit equally. We do not know if 3/5 is exactly this point, but we can bet that the negotiators tried to find a point reasonably close to it. Passing the resolution required 9 out of 13 states to approve, so if more than 4 states thought they were getting the bad end of the deal, they would not vote for it and it would not pass.
 
 Now consider how things might've been different in 1787:
 
-<img src="/assets/images/1787_negotiations.jpg" alt="1787 Negotiation" width="600" />
+<img src="/assets/jupyter/1787_negotiations.jpg" alt="1787 Negotiation" width="600" />
 
 As we discussed, the preferences are now switched, with the North wanting a lower ratio and the South a higher ratio, but the important point is that the intersection of the curves does not move horizontally. This is because I am assuming that both sides benefited equally from a new constitution, the same as they benefited equally from improving the Articles of Confederation. Then the relationship between the 1783 plot and the 1787 plot is just a vertical distortion of both curves, which will not move the intersection horizontally. If 3/5 did not change the balance of power before, it still does not, and remains the compromise where neither side will think they're getting the bad end of the deal. Reading accounts of the convention, you also get the sense that there was a lot of work to do, and no one wanted to waste time rehashing a negotiation that had essentially happened four years earlier.
 
